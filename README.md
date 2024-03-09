@@ -1,0 +1,1 @@
+If you're looking for source code it's obviously not here lol. You can find all source code here https://github.com/HighSkai/r6-recoil-gui-debug ! GL with your cheating. I am not responsible for any consequences, use at your own risk!
